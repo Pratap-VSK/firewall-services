@@ -46,7 +46,7 @@ Open your terminal or command prompt As Administrator.
 Run the application:
 ```
 Bash
-python app.py
+python firewall.py
 ```
 The system will automatically initialize the database, start the background sniffer thread, and open the dashboard in your default web browser at http://127.0.0.1:8000.
 
